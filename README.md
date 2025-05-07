@@ -68,6 +68,6 @@ Stationery-Store-Management-System/
 
 ## 🧑‍💻 Author
 
-**Atharva Balla**
+**Atharva Balla** :
 *Developed at Cipherbyte Technologies as part of a professional internship project.*
 [GitHub Profile](https://github.com/atharvaballa)
