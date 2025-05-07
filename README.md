@@ -34,20 +34,20 @@ Stationery-Store-Management-System/
 
 ## ▶️ How to Run
 
-1. Clone the repository
+1. **Clone the repository**
 
    ```bash
    git clone https://github.com/atharvaballa/Stationery-Store-Management-System-with-Receipt-Generation-and-Data-Encryption.git
    cd Stationery-Store-Management-System-with-Receipt-Generation-and-Data-Encryption
    ```
 
-2. Install dependencies
+2. **Install dependencies**
 
    ```bash
    pip install cryptography reportlab
    ```
 
-3. Run the application
+3. **Run the application**
 
    ```bash
    python main.py
